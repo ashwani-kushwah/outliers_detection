@@ -21,3 +21,6 @@ The Z-score method is based on standardizing the data by subtracting the mean an
 ## IQR Method
 
 The Interquartile Range (IQR) method defines outliers as data points that fall below Q1 - 1.5 * IQR or above Q3 + 1.5 * IQR, where Q1 is the first quartile and Q3 is the third quartile. This method is robust to non-normally distributed data and is less sensitive to extreme values than the Z-score method.
+
+
+This is a part of amazing statistics course by Krish Naik Sir, available for FREE! on Youtube. [Stats Playlist](https://www.youtube.com/playlist?list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
